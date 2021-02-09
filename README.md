@@ -4,7 +4,7 @@
 **Vini901/Vini901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://www.linkedin.com/in/vineet-rawat-250a61129/">
-  <img align="left" alt="link_vineet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="link_vineet" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Flinkedin&psig=AOvVaw362YF17ftbXpPv8eSBIJrg&ust=1612982135688000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMj4t6K53e4CFQAAAAAdAAAAABAD" />
 </a>
 <br />
 <br />
