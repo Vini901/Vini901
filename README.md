@@ -3,7 +3,11 @@
 <!--
 **Vini901/Vini901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/vineet-rawat-250a61129/">
+  <img align="left" alt="Vineet LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br />
+<br />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
