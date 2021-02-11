@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on ...Mentoring colleague
+- 🔭 I’m currently working on ...Mentoring people around me
 - 🌱 I’m currently learning ...Deep Learning, Machine Learning
 - 👯 I’m looking to collaborate on ...Machine Learning
 - 🤔 I’m looking for help with ...AWS
