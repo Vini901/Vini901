@@ -16,4 +16,5 @@
 - 📫 How to reach me: .. here
 - 😄 Pronouns: ...He
 - ⚡ Fun fact: ... I am a mad scientist
--->
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
