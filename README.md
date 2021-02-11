@@ -7,7 +7,7 @@
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a> &nbsp;
   <a href="https://www.hackerearth.com/@vineetrawat91996" rel="nofollow noreferrer">
-    <img src="https://www.hackerearth.com" target="_blank"><img src="https://static-fastly.hackerearth.com/static/hackerearth/images/badge/HE_badge_on_dark.png" alt="Hackerearth"> Hackerearth
+    <img src="https://www.hackerearth.com" target="_blank"><img src="https://static-fastly.hackerearth.com/static/hackerearth/images/badge/HE_badge_on_dark.png" alt="Hackerearth"> 
   </a>
 </p>
 - 🔭 I’m currently working on ...Mentoring colleague
