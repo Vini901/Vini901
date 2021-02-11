@@ -1,4 +1,4 @@
-### Hi there, Here is I am currently working on👋
+### Hi there👋  I am Vineet Rawat. Currently working as Software Engineer and I am also a Data Science enthusiast where I will be analyzing the businesses and helping in devloping them.
 <p>
   <a href="https://www.linkedin.com/in/vin999" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
