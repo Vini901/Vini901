@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on ...Machine Learning
 - 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: .. here
+- 📫 How to reach me: .. ping me at Linkedin
 - 😄 Pronouns: ...He
 - ⚡ Fun fact: ... I am a mad scientist
 
