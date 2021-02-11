@@ -1,20 +1,18 @@
-### Hi there 👋
+### Hi there, Here is I am currently working on👋
 
 <!--
 **Vini901/Vini901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<a href="https://www.linkedin.com/in/vineet-rawat-250a61129/">
-  <img align="left" alt="link_vineet" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Flinkedin&psig=AOvVaw362YF17ftbXpPv8eSBIJrg&ust=1612982135688000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMj4t6K53e4CFQAAAAAdAAAAABAD" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br />
 <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ...Mentoring colleague
+- 🌱 I’m currently learning ...Deep Learning, Machine Learning
+- 👯 I’m looking to collaborate on ...Machine Learning
+- 🤔 I’m looking for help with ...AWS
+- 💬 Ask me about ...Anything
+- 📫 How to reach me: .. here
+- 😄 Pronouns: ...He
+- ⚡ Fun fact: ... I am a mad scientist
 -->
